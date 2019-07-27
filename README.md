@@ -6,4 +6,4 @@ changes on example branch
 
 update on master before rebase
 
-conflicting change
+this might cause a conflict
