@@ -9,3 +9,15 @@ update on master before rebase
 this might cause a conflict
 
 new chnages
+
+# Getting started
+
+sign up
+
+login
+
+update 
+
+ save
+ 
+ logout
